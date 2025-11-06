@@ -16,5 +16,5 @@
 - **Languages:** Python, R, MATLAB, Java, SQL  
 - **AI/ML:** Hugging Face, TensorFlow, PyTorch, Scikit-learn  
 - **Data Tools:** Tableau, Power BI, Excel  
-- **Other:** Salesforce (Apex, SOQL), AutoCAD, Revit  
+- **Other:** Salesforce (Apex, SOQL), AutoCAD, Revit, ArcGIS.
 
