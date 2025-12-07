@@ -19,9 +19,3 @@
 - **Other:** Salesforce (Apex, SOQL), AutoCAD, Revit, ArcGIS.
 
 ---
-
-## 📘 Shadow removal project starter
-- Clone the working repo you mentioned (`https://github.com/RavindraSSK/MY_WORK.git`) and open it in VS Code Insiders to follow the guide.
-- See [`docs/shadow_removal_guide.md`](docs/shadow_removal_guide.md) for a step-by-step plan to build an attention-based shadow removal model for aerial/tree-shadow imagery in VS Code Insiders.
-- The guide covers environment setup, data prep for the provided aerial samples, recommended architectures (e.g., DeShadowFormer/attention U-Nets), training scripts, evaluation, and Git handoff steps.
-
