@@ -13,16 +13,16 @@ M.S. in Artificial Intelligence, Saint Louis University · **Available December 
 ## 🚀 Featured Projects
 
 ### [MediTrust](https://github.com/RavindraSSK/MediTrust) — Explainable healthcare risk platform
-End-to-end risk scoring with per-prediction SHAP explanations, served through a FastAPI backend and React frontend on AWS.
-`Python` `FastAPI` `SHAP` `React` `PostgreSQL` `AWS` · **ROC-AUC 0.87**
+End-to-end cardiovascular risk scoring with per-prediction SHAP explanations and Gemini-generated clinical summaries, served through a FastAPI backend with nurse and doctor dashboard workflows on AWS EC2.
+`Python` `FastAPI` `SHAP` `Gemini` `PostgreSQL` `AWS` · **ROC-AUC 0.97**
 
 ### [gundata-agentic-ai](https://github.com/RavindraSSK/gundata-agentic-ai) — Agentic AI game
-<!-- TODO: one line on what the agent actually does — decision loop, tools it calls, what makes it interesting -->
-`Java` `Agentic AI`
+A traditional Andhra Sankranti dice game rebuilt as an agent testbed: rule-based personalities and a tabular Q-learning agent trained over 20k self-play episodes, each move logged with its reasoning and top-3 Q-values in a live dashboard.
+`Java` `Q-learning` `Agentic AI`
 
 ### [phishguard-final-project](https://github.com/RavindraSSK/phishguard-final-project) — Phishing email detector
-Classifier that flags phishing attempts from email text, deployed as an interactive Streamlit app.
-`Python` `scikit-learn` `Streamlit` · **<!-- TODO: accuracy / F1 -->**
+TF-IDF + logistic regression classifier that flags phishing attempts from raw email text, deployed as an interactive Streamlit app.
+`Python` `scikit-learn` `TF-IDF` `Streamlit`
 
 ### [snaptune-final-project1](https://github.com/RavindraSSK/snaptune-final-project1) — Image-to-music recommender
 Multimodal pipeline that reads the mood of a photo and maps it to Spotify tracks.
