@@ -156,7 +156,11 @@ Multimodal recommender that reads the mood of an image and maps it to matching S
 <br/><br/>
 
 <!-- Contribution graph. Requires the snake workflow in .github/workflows/snake.yml — the image 404s until that Action has run once. -->
-<img src="https://raw.githubusercontent.com/RavindraSSK/RavindraSSK/output/snake.svg" alt="Contribution Graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RavindraSSK/RavindraSSK/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RavindraSSK/RavindraSSK/output/snake.svg"/>
+  <img src="https://raw.githubusercontent.com/RavindraSSK/RavindraSSK/output/snake.svg" alt="Contribution Graph"/>
+</picture>
 
 </div>
 
