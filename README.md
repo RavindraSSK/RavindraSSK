@@ -1,85 +1,180 @@
+<div align="center">
+
 # Ravindra Siva Sai Kumar Medicharla
 
-**ML & AI Engineer** — building production-ready machine learning and applied AI systems.
-M.S. in Artificial Intelligence, Saint Louis University · **Available December 2026**
+### ML & AI Engineer · Applied AI · LLM Evaluation
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ravindrassk.com-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://ravindrassk.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravindra-ssk-medicharla-45ba44123)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravindrassk1304@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@ravindrassk)
+**Building production-ready machine learning systems — from model to deployed endpoint.**
 
----
+<p>
+<img src="https://img.shields.io/badge/M.S.%20Artificial%20Intelligence-Saint%20Louis%20University-003DA5?style=for-the-badge" alt="MS AI"/>
+<img src="https://img.shields.io/badge/Available-December%202026-2EA043?style=for-the-badge" alt="Available Dec 2026"/>
+<img src="https://img.shields.io/badge/St.%20Louis,%20USA-1F2328?style=for-the-badge&logo=googlemaps&logoColor=white" alt="St. Louis"/>
+</p>
 
-## 🚀 Featured Projects
+<p>
+<a href="https://ravindrassk.com"><img src="https://img.shields.io/badge/Portfolio-ravindrassk.com-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/ravindra-ssk-medicharla-45ba44123"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:ravindrassk1304@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://youtube.com/@ravindrassk"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+</p>
 
-### [MediTrust](https://github.com/RavindraSSK/MediTrust) — Explainable healthcare risk platform
-End-to-end cardiovascular risk scoring with per-prediction SHAP explanations and Gemini-generated clinical summaries, served through a FastAPI backend with nurse and doctor dashboard workflows on AWS EC2.
-`Python` `FastAPI` `SHAP` `Gemini` `PostgreSQL` `AWS` · **ROC-AUC 0.97**
-
-### [gundata-agentic-ai](https://github.com/RavindraSSK/gundata-agentic-ai) — Agentic AI game
-A traditional Andhra Sankranti dice game rebuilt as an agent testbed: rule-based personalities and a tabular Q-learning agent trained over 20k self-play episodes, each move logged with its reasoning and top-3 Q-values in a live dashboard.
-`Java` `Q-learning` `Agentic AI`
-
-### [phishguard-final-project](https://github.com/RavindraSSK/phishguard-final-project) — Phishing email detector
-TF-IDF + logistic regression classifier that flags phishing attempts from raw email text, deployed as an interactive Streamlit app.
-`Python` `scikit-learn` `TF-IDF` `Streamlit`
-
-### [snaptune-final-project1](https://github.com/RavindraSSK/snaptune-final-project1) — Image-to-music recommender
-Multimodal pipeline that reads the mood of a photo and maps it to Spotify tracks.
-`Hugging Face` `Spotify API` `Streamlit`
-
-### [ravindra-ssk-site](https://github.com/RavindraSSK/ravindra-ssk-site) — SSK AI Hub™
-Next.js 16 portfolio and publishing platform for AI guides and whitepapers. Live at [ravindrassk.com](https://ravindrassk.com).
-`Next.js` `TypeScript` `Tailwind` `Framer Motion` `Vercel`
+</div>
 
 ---
 
-## 🧠 About
+## About
 
-Machine learning and applied AI across deep learning, generative AI, LLM evaluation, explainable AI, and model deployment. Currently working on LLM and agent evaluation as an AI Trainer at Handshake AI, and going deeper on RAG systems, agentic AI, MCP, and multimodal models.
+I build machine learning and applied AI systems end to end — training, explainability, serving, and deployment. My work spans deep learning, generative AI, LLM and agent evaluation, explainable AI, and computer vision.
+
+Currently an **AI Trainer at Handshake AI**, working on LLM and agent evaluation, prompt engineering, and human feedback workflows. I also publish AI guides and whitepapers under **SSK AI Hub™**.
 
 **Open to:** Machine Learning Engineer · Applied AI Engineer · Generative AI Engineer · AI Engineer
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<div align="center">
 
-**ML & AI**
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+**Languages & Core**
 
-**Deployment & Infra**
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=py,r,ts,js,mysql,postgres&theme=dark)](https://skillicons.dev)
+
+**ML, Deep Learning & GenAI**
+
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/SHAP-8A2BE2?style=for-the-badge" alt="SHAP"/>
+<img src="https://img.shields.io/badge/RAG%20%26%20Vector%20Search-4B32C3?style=for-the-badge" alt="RAG"/>
+
+**Serving, Infra & Tooling**
+
+[![My Skills](https://skillicons.dev/icons?i=fastapi,docker,kubernetes,aws,azure,vercel,git,github,githubactions,linux,postman,vscode&theme=dark)](https://skillicons.dev)
+
+**Frontend (for ML products)**
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
-## 📜 Certifications
+## Featured Projects
 
-Microsoft Azure AI Engineer · NVIDIA Deep Learning Institute · Anthropic AI Fluency · Claude 101
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### MediTrust
+Explainable cardiovascular risk platform. Per-prediction SHAP explanations and Gemini-generated clinical summaries, served through a FastAPI backend on AWS EC2.
+
+**Stack:** Python · FastAPI · SHAP · Gemini · PostgreSQL · AWS
+**Result:** ROC-AUC 0.97
+
+<a href="https://github.com/RavindraSSK/MediTrust"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### GunData — Agentic AI
+
+**Stack:** Java · Agentic AI
+
+<a href="https://github.com/RavindraSSK/gundata-agentic-ai"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### PhishGuard
+Phishing email detector that classifies malicious intent from raw email text, deployed as an interactive Streamlit app.
+
+**Stack:** Python · scikit-learn · Streamlit
+
+<a href="https://github.com/RavindraSSK/phishguard-final-project"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### SnapTune
+Multimodal recommender that reads the mood of an image and maps it to matching Spotify tracks.
+
+**Stack:** Hugging Face · Spotify API · Streamlit
+
+<a href="https://github.com/RavindraSSK/snaptune-final-project1"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
+
+</td>
+</tr>
+</table>
+
+> **SSK AI Hub™** — my Next.js portfolio and AI publishing platform, live at [ravindrassk.com](https://ravindrassk.com) · [source](https://github.com/RavindraSSK/ravindra-ssk-site)
 
 ---
 
-## 📊 GitHub Stats
+## Currently Exploring
 
-![](https://github-readme-stats.vercel.app/api?username=RavindraSSK&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RavindraSSK&theme=dark&hide_border=false&layout=compact)
+<div align="center">
+
+<img src="https://img.shields.io/badge/Agentic%20AI-1C3C3C?style=for-the-badge" alt="Agentic AI"/>
+<img src="https://img.shields.io/badge/RAG%20Systems-4B32C3?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/MCP-D97757?style=for-the-badge" alt="MCP"/>
+<img src="https://img.shields.io/badge/Multimodal%20AI-6E40C9?style=for-the-badge" alt="Multimodal"/>
+<img src="https://img.shields.io/badge/LLM%20Evaluation-0A66C2?style=for-the-badge" alt="LLM Evaluation"/>
+<img src="https://img.shields.io/badge/AI%20Infrastructure-FF9900?style=for-the-badge" alt="AI Infrastructure"/>
+
+</div>
+
+---
+
+## Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Microsoft-Azure%20AI%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI Engineer"/>
+<img src="https://img.shields.io/badge/NVIDIA-Deep%20Learning%20Institute-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA DLI"/>
+<img src="https://img.shields.io/badge/Anthropic-AI%20Fluency-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic AI Fluency"/>
+<img src="https://img.shields.io/badge/Anthropic-Claude%20101-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude 101"/>
+
+</div>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RavindraSSK&show_icons=true&theme=github_dark&hide_border=true&count_private=false" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavindraSSK&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=RavindraSSK&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- Contribution graph. Requires the snake workflow in .github/workflows/snake.yml — the image 404s until that Action has run once. -->
+<img src="https://raw.githubusercontent.com/RavindraSSK/RavindraSSK/output/snake.svg" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## Get In Touch
+
+Open to ML & AI engineering roles starting **December 2026**, and to research or open-source collaboration.
+
+<a href="https://linkedin.com/in/ravindra-ssk-medicharla-45ba44123"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:ravindrassk1304@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://ravindrassk.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/RavindraSSK"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<br/><br/>
+
+<sub>SSK AI Hub™ · Learn • Build • Innovate</sub>
+
+</div>
