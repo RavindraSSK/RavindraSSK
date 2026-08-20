@@ -162,6 +162,11 @@ Multimodal recommender that reads the mood of an image and maps it to matching S
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavindraSSK&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph"/>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=RavindraSSK&label=PROFILE%20VIEWS&color=22d3ee&style=for-the-badge" alt="Profile views"/>
+<a href="https://ravindrassk.com/analytics"><img src="https://img.shields.io/badge/Live%20Visitor%20Map-6366F1?style=for-the-badge&logo=googleearth&logoColor=white" alt="Live visitor map"/></a>
+
 </div>
 
 ---
