@@ -20,6 +20,7 @@
 <a href="mailto:ravindrassk1304@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://youtube.com/@ravindrassk"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 <img src="https://komarev.com/ghpvc/?username=RavindraSSK&label=PROFILE%20VIEWS&color=22d3ee&style=for-the-badge" alt="Profile views"/>
+<a href="https://ravindrassk.com/analytics"><img src="https://img.shields.io/badge/Live%20Visitor%20Map-6366F1?style=for-the-badge&logo=googleearth&logoColor=white" alt="Live visitor map"/></a>
 </p>
 
 </div>
