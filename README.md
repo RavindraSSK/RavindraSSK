@@ -86,7 +86,6 @@ Explainable cardiovascular risk platform. Per-prediction SHAP explanations and G
 <!-- TODO: 2 lines on what the agent actually does — its decision loop, the tools it calls, why it's interesting -->
 
 **Stack:** Java · Agentic AI
-**Result:** <!-- TODO -->
 
 <a href="https://github.com/RavindraSSK/gundata-agentic-ai"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
 
@@ -99,7 +98,6 @@ Explainable cardiovascular risk platform. Per-prediction SHAP explanations and G
 Phishing email detector that classifies malicious intent from raw email text, deployed as an interactive Streamlit app.
 
 **Stack:** Python · scikit-learn · Streamlit
-**Result:** <!-- TODO: accuracy or F1 -->
 
 <a href="https://github.com/RavindraSSK/phishguard-final-project"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
 
