@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./ravi-ssk-denoise.svg" alt="Particles denoising into RAVI SSK" width="100%"/>
+
 # Ravindra Siva Sai Kumar Medicharla
 
 ### ML & AI Engineer · Applied AI · LLM Evaluation
@@ -17,6 +19,7 @@
 <a href="https://linkedin.com/in/ravindra-ssk-medicharla-45ba44123"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:ravindrassk1304@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://youtube.com/@ravindrassk"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<img src="https://komarev.com/ghpvc/?username=RavindraSSK&label=PROFILE%20VIEWS&color=22d3ee&style=for-the-badge" alt="Profile views"/>
 </p>
 
 </div>
@@ -74,13 +77,16 @@ Explainable cardiovascular risk platform. Per-prediction SHAP explanations and G
 **Result:** ROC-AUC 0.97
 
 <a href="https://github.com/RavindraSSK/MediTrust"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
+<!-- TODO: add live demo URL if deployed, else leave as is -->
 
 </td>
 <td width="50%" valign="top">
 
 ### GunData — Agentic AI
+<!-- TODO: 2 lines on what the agent actually does — its decision loop, the tools it calls, why it's interesting -->
 
 **Stack:** Java · Agentic AI
+**Result:** <!-- TODO -->
 
 <a href="https://github.com/RavindraSSK/gundata-agentic-ai"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
 
@@ -93,6 +99,7 @@ Explainable cardiovascular risk platform. Per-prediction SHAP explanations and G
 Phishing email detector that classifies malicious intent from raw email text, deployed as an interactive Streamlit app.
 
 **Stack:** Python · scikit-learn · Streamlit
+**Result:** <!-- TODO: accuracy or F1 -->
 
 <a href="https://github.com/RavindraSSK/phishguard-final-project"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
 
@@ -146,8 +153,7 @@ Multimodal recommender that reads the mood of an image and maps it to matching S
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RavindraSSK&show_icons=true&theme=github_dark&hide_border=true&count_private=false" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavindraSSK&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.shion.dev/api?username=RavindraSSK&show_icons=true&theme=github_dark&hide_border=true&count_private=false" alt="GitHub Stats" height="165"/>
 
 <br/><br/>
 
@@ -155,12 +161,7 @@ Multimodal recommender that reads the mood of an image and maps it to matching S
 
 <br/><br/>
 
-<!-- Contribution graph. Requires the snake workflow in .github/workflows/snake.yml — the image 404s until that Action has run once. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RavindraSSK/RavindraSSK/output/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RavindraSSK/RavindraSSK/output/snake.svg"/>
-  <img src="https://raw.githubusercontent.com/RavindraSSK/RavindraSSK/output/snake.svg" alt="Contribution Graph"/>
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RavindraSSK&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph"/>
 
 </div>
 
